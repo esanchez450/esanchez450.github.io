@@ -1,12 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
+import image from './images/funny_guru.jpeg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={image} className="App-logo" alt="logo" />
         <p>
           For those that aint know, my name's Manny and I'm the React.js Guru
         </p>
